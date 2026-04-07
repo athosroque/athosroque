@@ -82,16 +82,7 @@ Extração de insights estratégicos a partir de dados brutos para transformar o
 ![Seaborn](https://img.shields.io/badge/Seaborn-9DCFE0?style=flat-square&logo=seaborn&logoColor=white)
 
 ---
-### 🎯 [Análise Estatística de Dados com NumPy](https://github.com/athosroque/notebook-docs)
-> Análise estatística vetorial pura de e-commerce para identificar correlações comportamentais e orientar campanhas de remarketing com base em fricção temporal.
 
-Uso exclusivo do motor matemático do **NumPy** (sem abstrações de alto nível) para segmentar clientes por percentis e validar uma correlação de 0.83 entre tempo no site e probabilidade de conversão.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9DCFE0?style=flat-square&logo=seaborn&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 
