@@ -112,7 +112,6 @@ Arquitetura medalhão **Bronze → Prata → Ouro** com Delta Lake, feature engi
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/athosroque/)
-- 🐙 [GitHub](https://github.com/athosroque)
 - 📍 Brasília, DF — Brasil
 
 ---
