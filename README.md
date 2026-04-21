@@ -32,6 +32,11 @@ Atualmente resido em Brasília-DF, tenho 27 anos e cresci em crixás-goiás, sou
 
 **Dados & ML**
 
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9DCFE0?style=flat-square&logo=seaborn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -83,6 +88,18 @@ Extração de insights estratégicos a partir de dados brutos para transformar o
 
 ---
 
+### 🔥 [Databricks ML Pipeline — Telco Churn](https://github.com/athosroque/databricks-ml-pipeline)
+> Pipeline completo de ML para predição de churn em telecom — do dado bruto até a inferência em batch.
+
+Arquitetura medalhão **Bronze → Prata → Ouro** com Delta Lake, feature engineering distribuído com Spark ML Pipeline e rastreio de experimentos com MLflow. Três modelos treinados e comparados; o campeão (LR) atinge **AUC 0.82** e é registrado no Unity Catalog Model Registry. Pipeline termina com batch inference gerando **score de risco por cliente** (ALTO / MÉDIO / BAIXO).
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+---
 
 ## 📊 Estatísticas do GitHub
 
