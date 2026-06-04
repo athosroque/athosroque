@@ -88,7 +88,7 @@ Extração de insights estratégicos a partir de dados brutos para transformar o
 
 ---
 
-### 🔥 [Databricks ML Pipeline — Telco Churn](https://github.com/athosroque/databricks-ml-pipeline-)
+### 🔥 [Databricks ML Pipeline — Telco Churn](https://github.com/athosroque/spark-churn)
 > Pipeline completo de ML para predição de churn em telecom — do dado bruto até a inferência em batch.
 
 Arquitetura medalhão **Bronze → Prata → Ouro** com Delta Lake, feature engineering distribuído com Spark ML Pipeline e rastreio de experimentos com MLflow. Três modelos treinados e comparados; o campeão (LR) atinge **AUC 0.82** e é registrado no Unity Catalog Model Registry. Pipeline termina com batch inference gerando **score de risco por cliente** (ALTO / MÉDIO / BAIXO).
