@@ -101,6 +101,19 @@ Arquitetura medalhão **Bronze → Prata → Ouro** com Delta Lake, feature engi
 
 ---
 
+### 📈 [Curvas de Avaliação de Classificadores](https://github.com/athosroque/evaluation-classifiers)
+> Biblioteca didática para **avaliar em vez de classificar** — quatro curvas que medem um modelo binário ao longo de todos os limiares, no espírito do Cap. 8 de *Data Science for Business*.
+
+Implementa **ROC/AUC**, **curva de lucro**, **resposta cumulativa** e **lift**, todas sobre `(y_true, y_scores)` genéricos. Aplicada aos scores reais do modelo GBT de churn do projeto [`Databricks_churn`](https://github.com/athosroque/Databricks_churn): **AUC 0,826** e corte ótimo no top 31% da base (**R$11.270** de lucro esperado sob matriz de custo-benefício explícita). Mostra como traduzir qualidade de ranqueamento em decisão de negócio — "quantos clientes acionar".
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
