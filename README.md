@@ -61,7 +61,7 @@ Atualmente resido em Brasília-DF, tenho 27 anos e cresci em crixás-goiás, sou
 
 ## 🚀 Projetos em Destaque
 
-### <img src="https://raw.githubusercontent.com/athosroque/genesys-manager-v2-pilot/main/assets/icons/genesys-icon.svg" width="22" height="22" valign="bottom"> [Genesys Manager api](https://github.com/athosroque/genesys-manager-v2-pilot)
+### ⚡️ [Genesys Manager api](https://github.com/athosroque/genesys-manager-v2-pilot)
 > Dashboard moderno para gerenciamento em massa de usuários, filas e papéis no Genesys Cloud.
 
 Uma aplicação full-stack construída com **FastAPI + Vue 3 + Docker**, projetada para substituir operações manuais propensas a erros por uma interface intuitiva e segura. Suporta migração em massa de usuários entre divisões, papéis e grupos com um único clique.
@@ -75,7 +75,7 @@ Uma aplicação full-stack construída com **FastAPI + Vue 3 + Docker**, projeta
 
 
 ---
-### <img src="https://raw.githubusercontent.com/athosroque/genesys-manager-v2-pilot/main/assets/icons/sales-analysis-icon.svg" width="22" height="22" valign="bottom"> [Análise de Vendas E-commerce](https://github.com/athosroque/Analise-de-Vendas-E-commerce)
+### 🛒🛍️ [Análise de Vendas E-commerce](https://github.com/athosroque/Analise-de-Vendas-E-commerce)
 > Análise exploratória de dados (EDA) aprofundada para identificar padrões de comportamento do consumidor, sazonalidade e oportunidades de expansão logística.
 
 Extração de insights estratégicos a partir de dados brutos para transformar o histórico de vendas em diretrizes acionáveis para gestão de estoque e campanhas de marketing direcionadas na região Sudeste.
