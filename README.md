@@ -5,7 +5,7 @@
 
 ### Ciência de Dados & Automação · ML · BI · Python
 
-*Migrando de Operações & Troubleshooting para Machine Learning, LLMs e Business Intelligence*
+*Machine Learning, LLMs e Business Intelligence*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-athosroque-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athosroque/)
 [![GitHub](https://img.shields.io/badge/GitHub-athosroque-181717?style=flat&logo=github&logoColor=white)](https://github.com/athosroque)
