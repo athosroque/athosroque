@@ -88,7 +88,7 @@ Workflow Dify (`mode: workflow`) orquestra **descoberta → especificação → 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
 ---
-### 🛒🛍️ [Análise de Vendas E-commerce](https://github.com/athosroque/Analise-de-Vendas-E-commerce)
+### 🛒 [Análise de Vendas E-commerce](https://github.com/athosroque/Analise-de-Vendas-E-commerce)
 > Análise exploratória de dados (EDA) aprofundada para identificar padrões de comportamento do consumidor, sazonalidade e oportunidades de expansão logística.
 
 Extração de insights estratégicos a partir de dados brutos para transformar o histórico de vendas em diretrizes acionáveis para gestão de estoque e campanhas de marketing direcionadas na região Sudeste.
