@@ -75,6 +75,19 @@ Uma aplicação full-stack construída com **FastAPI + Vue 3 + Docker**, projeta
 
 
 ---
+### 🤖 [Pipeline SEO — agentes Dify](https://github.com/athosroque/hub-seo)
+> DAG fixo de agentes LLM para gerar conteúdo SEO — da descoberta ao publish, com gate humano.
+
+Workflow Dify (`mode: workflow`) orquestra **descoberta → especificação → loop redator↔revisor (3 rodadas) → dual-write → gate → Cloudflare Pages**. Modelos via **llm-gateway** (aliases `strong`/`mid`), filesystem sandbox (`sites-fs`) e publish só após APPROVE. Demo ao vivo: [hub.projetoathos.com.br](https://hub.projetoathos.com.br/).
+
+![Dify](https://img.shields.io/badge/Dify-1C64F2?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0A0A0A?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+
+---
 ### 🛒🛍️ [Análise de Vendas E-commerce](https://github.com/athosroque/Analise-de-Vendas-E-commerce)
 > Análise exploratória de dados (EDA) aprofundada para identificar padrões de comportamento do consumidor, sazonalidade e oportunidades de expansão logística.
 
