@@ -3,7 +3,7 @@
 
 # Athos Roque
 
-### Ciência de Dados & Automação · ML · BI · Python
+### Engenheiro de Dados & Automação · ML · BI · Python
 
 *Machine Learning, LLMs e Business Intelligence*
 
