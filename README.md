@@ -75,7 +75,7 @@ Uma aplicação full-stack construída com **FastAPI + Vue 3 + Docker**, projeta
 
 
 ---
-### 🤖 [Pipeline SEO — agentes Dify](https://github.com/athosroque/hub-seo)
+### 🤖 [Pipeline de agentes Dify](https://github.com/athosroque/hub-seo)
 > DAG fixo de agentes LLM para gerar conteúdo SEO — da descoberta ao publish, com gate humano.
 
 Workflow Dify (`mode: workflow`) orquestra **descoberta → especificação → loop redator↔revisor (3 rodadas) → dual-write → gate → Cloudflare Pages**. Modelos via **llm-gateway** (aliases `strong`/`mid`), filesystem sandbox (`sites-fs`) e publish só após APPROVE. Demo ao vivo: [hub.projetoathos.com.br](https://hub.projetoathos.com.br/).
