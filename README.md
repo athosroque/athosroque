@@ -17,7 +17,7 @@
 
 ## 🧠 Sobre mim
 
-Atualmente resido em Brasília-DF, tenho 27 anos e cresci em crixás-goiás, sou formado em redes de computadores, com pós graduações na áreas de: arquitetura, projetos em cloud e ciência de dados além de especializações modulares em python, Business Intelligence (BI) e Inteligência Artificial (IA), transformo dados brutos em insights estratégicos preditivos para automatizar a análise e agilizar decisões.
+Atualmente resido em Brasília-DF, tenho 28 anos, sou formado em redes de computadores, com pós graduações na áreas de: arquitetura, projetos em cloud e ciência de dados além de especializações modulares em python, Business Intelligence (BI) e Inteligência Artificial (IA), transformo dados brutos em insights estratégicos preditivos para automatizar a análise e agilizar decisões.
 
 ---
 
