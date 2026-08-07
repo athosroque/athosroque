@@ -141,7 +141,3 @@ Implementa **ROC/AUC**, **curva de lucro**, **resposta cumulativa** e **lift**, 
 - 📍 Brasília, DF — Brasil
 
 ---
-
-<div align="center">
-  <sub>Aprendendo · Automatizando · Evoluindo</sub>
-</div>
