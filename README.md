@@ -29,6 +29,7 @@ Atualmente resido em Brasília-DF, tenho 28 anos, sou formado em redes de comput
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 
 **Dados & ML**
 
@@ -37,12 +38,23 @@ Atualmente resido em Brasília-DF, tenho 28 anos, sou formado em redes de comput
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=flat&logoColor=white)
 ![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=flat&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9DCFE0?style=flat-square&logo=seaborn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**IA & Orquestração de LLMs**
+
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0A0A0A?style=flat)
+![Dify](https://img.shields.io/badge/Dify-1C64F2?style=flat)
+![LangSmith](https://img.shields.io/badge/LangSmith-FFFFFF?style=flat&logo=langchain&logoColor=black)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 
 **Infraestrutura & DevOps**
 
@@ -60,6 +72,23 @@ Atualmente resido em Brasília-DF, tenho 28 anos, sou formado em redes de comput
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 🧠 [Study RAG Agent](https://github.com/athosroque/study-rag-agent)
+> Plataforma autônoma de curadoria de conhecimento com Agentes, Bancos Vetoriais e Repetição Espaçada.
+
+Ecossistema inteligente de RAG focado em combater o inchaço de dados. Utiliza orquestração complexa com **LangGraph** (pipeline cíclico de 8 estágios) para atuar como um curador autônomo, processando aulas via LLMs e construindo uma ontologia estritamente não-redundante. Possui armazenamento híbrido no PostgreSQL combinando busca semântica (`pgvector`), estrutura flexível (`JSONB`) e integridade relacional. Além disso, conta com um algoritmo de recomendação de estudos baseado na Curva de Ebbinghaus e rastreabilidade MLOps via Langfuse e LangSmith.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0A0A0A?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-FFFFFF?style=flat-square&logo=langchain&logoColor=black)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square)
+
+---
 
 ### ⚡️ [Genesys Manager api](https://github.com/athosroque/genesys-manager-v2-pilot)
 > Dashboard moderno para gerenciamento em massa de usuários, filas e papéis no Genesys Cloud.
