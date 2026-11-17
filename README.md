@@ -73,6 +73,28 @@ Atualmente resido em Brasília-DF, tenho 28 anos, sou formado em redes de comput
 
 ## 🚀 Projetos em Destaque
 
+### 📋 [Scraper CEBRASPE](https://github.com/athosroque/scraper-cebraspe)
+> Liga cada item de um edital de concurso às questões que a banca realmente cobrou, e mede quanto de uma prova cada assunto representa.
+
+Pipeline batch de ponta a ponta que coleta editais, provas e gabaritos do CEBRASPE, extrai o conteúdo programático com LLM sob revisão humana e organiza tudo numa **árvore mestre de assuntos** — 44 matérias, 699 assuntos e 2.048 subassuntos, um conceito por nó. Item de edital e questão apontam para a árvore numa relação N:N, e é dessa ligação que saem as estatísticas de incidência, calculadas em dois níveis (prova → concurso) para que um caderno compartilhado entre cargos não conte duas vezes.
+
+A separação de responsabilidades é a decisão central: o modelo de linguagem só entra onde o julgamento é inevitável — ler a lista de conteúdos de um edital, sugerir onde uma questão se encaixa — e **sempre sob portão humano**. Ler a prova, separar as questões, casar o gabarito e calcular a incidência é determinístico, por regra. Resultado: **3.410 questões classificadas com US$ 0,39 de inferência acumulada**.
+
+Governança e documentação são parte do produto: **45 ADRs** com contexto, alternativas descartadas e consequências; **97 páginas** de documentação, com as páginas técnicas **geradas do próprio código** e um teste que recusa o commit se divergirem; **1.906 testes** agrupados por etapa do pipeline; orquestração em **Dagster** com *asset checks*; e um invariante de regressão que bloqueia qualquer carga que altere o piloto já aprovado.
+
+📖 [Documentação completa](https://athosroque.github.io/scraper-cebraspe/) · [Visão executiva em PDF](https://athosroque.github.io/scraper-cebraspe/executivo/scraper-cebraspe-executivo.pdf)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=flat-square&logo=dagster&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square)
+![MkDocs](https://img.shields.io/badge/MkDocs_Material-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white)
+
+---
+
 ### 🧠 [Study RAG Agent](https://github.com/athosroque/study-rag-agent)
 > Plataforma autônoma de curadoria de conhecimento com Agentes, Bancos Vetoriais e Repetição Espaçada.
 
@@ -90,7 +112,7 @@ Ecossistema inteligente de RAG focado em combater o inchaço de dados. Utiliza o
 
 ---
 
-### ⚡️ [Genesys Manager api](https://github.com/athosroque/genesys-manager-v2-pilot)
+### ⚡️ [Genesys Manager API](https://github.com/athosroque/genesys-manager-api)
 > Dashboard moderno para gerenciamento em massa de usuários, filas e papéis no Genesys Cloud.
 
 Uma aplicação full-stack construída com **FastAPI + Vue 3 + Docker**, projetada para substituir operações manuais propensas a erros por uma interface intuitiva e segura. Suporta migração em massa de usuários entre divisões, papéis e grupos com um único clique.
