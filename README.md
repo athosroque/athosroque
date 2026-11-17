@@ -181,7 +181,7 @@ Implementa **ROC/AUC**, **curva de lucro**, **resposta cumulativa** e **lift**, 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athosroque&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosroque&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
